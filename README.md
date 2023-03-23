@@ -1,6 +1,6 @@
 # Research Analytics GW PUBH 6894
 
-Welcome to the course! Here on GitHub you will find all the assignments (Labs, Problelm Sets, and Final Project) for the course as well as any data and/or links to software/data to be successful in the assignments.  There are instructions for each assignment for each week.  All assignments are due on Day 7 of the week of assignment, except for the Final Project which is due on Day 3 of Week 11.  These dates are also listed on the course syllabus!  You will get the most out of the homework and the course if you work on the problem sets/labs/final project BEFORE the live session each week and bring your questions to the live session.  Good luck with the course and have fun with Research Analytics!
+Welcome to the course! Here on GitHub you will find all the assignments (Problelm Sets, additional Readings, and Final Project) for the course as well as any data and/or links to software/data to be successful in the assignments.  There are instructions for each assignment for each week.  All assignments are due on Friday of the week of assignment, except for the first assignment which is due on the Friday of Week 2 along with Week 2's assignment and the Final Project which is due on Wednesday of Week 11.  These dates are also listed on the course syllabus and below!  You will get the most out of the homework and the course if you work on the problem sets/final project BEFORE the live session each week and bring your questions to the live session.  Good luck with the course and have fun with Research Analytics!
 
 Sincerely,
 
@@ -42,11 +42,11 @@ Each week we will work on Problem Sets to help apply the course material for tha
 
 [Problem Set 7: Introduction to Genomics](ProblemSets/PS7/PS7.md) (Due Week 7)
 
-[Problem Set 8: Bioinformatics](ProblemSets/PS8/PS8.md) [[Data file]](Labs/Lab4/all_sequences.fasta.txt) (Due Week 8)
+[Problem Set 8: Bioinformatics](ProblemSets/PS8/PS8.md) [[Data file]](ProblemSets/PS8/all_sequences.fasta.txt) (Due Week 8)
 
-[Problem Set 9: Descriptive Models](ProblemSets/PS9/PS9.md)  9[[Data file 1]](Labs/Lab5/Session9GeneExpression1000.csv) [[Data file 2]](Labs/Lab5/Session9labels.csv) (Due Week 9) 
+[Problem Set 9: Descriptive Models](ProblemSets/PS9/PS9.md)  [[Data file 1]](ProblemSets/PS9/Session9GeneExpression1000.csv) [[Data file 2]](ProblemSets/PS9/Session9labels.csv) (Due Week 9) 
 
-[Problem Set 10: Predictive Models](ProblemSets/PS10/PS10.md) [[Data file]](ProblemSets/PS5/Session10PimaDiabetesCleanRand.csv) (Due Week 10)
+[Problem Set 10: Predictive Models](ProblemSets/PS10/PS10.md) [[Data file]](ProblemSets/PS10/Session10PimaDiabetesCleanRand.csv) (Due Week 10)
 
 ## Final Project
 [Part 1: Title & Abstract assignment](Project/Part1.md) [[pdf]](Project/Part1.pdf) (Due Week 7)
