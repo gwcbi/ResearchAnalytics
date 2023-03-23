@@ -24,3 +24,7 @@ Professor Crandall
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
 
 ## Problem Sets
+
+Each week we will work on Problem Sets to help apply the course material for that week to actual data analytics. Below are the Problem Sets (1-10) for the 10 weeks of the course. Be sure to read carefully the details of each problem set and answer all the associated questions. If you have trouble accessing the data for a given problem set, email your instructor with questions or, better yet, bring your questions to the live session.
+
+[Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md)
