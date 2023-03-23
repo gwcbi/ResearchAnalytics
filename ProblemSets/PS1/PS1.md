@@ -25,10 +25,9 @@ Develop a report (I recommend a Word (or other text editor) document) for your p
 
 ## Due date
 
-Day 7 Week 1
+Friday Week 2
 
 #### Data Source
 
 Xu B, Kraemer MUG, Open COVID-19 Data Working Group. Open access epidemiological data from the COVID-19 outbreak. Lancet Infect Dis. 20(5):534 (2020).
 
-Footer
