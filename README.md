@@ -49,10 +49,10 @@ Each week we will work on Problem Sets to help apply the course material for tha
 [Problem Set 10: Predictive Models](ProblemSets/PS10/PS10.md) [[Data file]](ProblemSets/PS10/Session10PimaDiabetesCleanRand.csv) (Due Friday Week 10)
 
 ## Final Project
-[Part 1: Title & Abstract assignment](Project/Part1.md) [(Due Friday Week 7)
+[Part 1: Title & Abstract assignment](Project/Part1.md) (Due Friday Week 7) (Upload along with your weekly homework under the same assignment)
 
-[Part 2: Outline](Project/Part2.md) [[pdf]](Project/Part2.pdf) (Due Week 8)
+[Part 2: Outline](Project/Part2.md) (Due Friday Week 8)
 
-[Part 3: Poster Presentation](Project/Part3.md) [[pdf]](Project/Part3.pdf) (Due Week 10)
+[Part 3: Poster Presentation](Project/Part3.md) (Due Week 10)
 
 [Part 4: Poster Examples](Project/)
