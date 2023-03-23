@@ -33,9 +33,9 @@ Each week we will work on Problem Sets to help apply the course material for tha
 
 [Problem Set 3: Data Warehouses](ProblemSets/PS3/PS3.md) (Due Week 3)
 
-[Problem Set 4: Data Standards & Ontologies](Labs/Lab3/Lab3.md) (Labs/Lab3/Lab3.pdf) (Due Week 4)
+[Problem Set 4: Data Standards & Ontologies](ProblemSets/PS4/PS4.md) (Due Week 4)
 
-[Problem Set 5: Basic Statistics](ProblemSets/PS2/PS2.md)  [[pdf]](ProblemSets/PS2/PS2.pdf) [[Data file]](ProblemSets/PS2/f10IntercrossMissing.csv) (Due Week 5)
+[Problem Set 5: Basic Statistics](ProblemSets/PS5/PS5.md) [[Data file]](ProblemSets/PS5/f10IntercrossMissing.csv) (Due Week 5)
 
 [Problem Set 6: Databases](ProblemSets/PS3/PS3.md)  [[pdf]](ProblemSets/PS3/PS3.pdf) (Due Week 6)
 
