@@ -4,3 +4,18 @@ Welcome to the course! Here on GitHub you will find all the assignments (Labs, P
 Sincerely,
 
 Professor Crandall
+
+## Timeline
+| Deadline | Assignment | Project Checkpoint | Due Date |
+|:---------|-----------------|--------------------|-------------|
+| Week 1 | Problem Set 1 | | 14JUL2023 |
+| Week 2 | Problem Set 2 | | 14JUL2023 |
+| Week 3 | Problem Set 3 | | 21JUL2023 |
+| Week 4 | Problem Set 4 | | 28JUL2023 |
+| Week 5 | Problem Set 5 | | 04AUG2023 |
+| Week 6 | Problem Set 6 | | 11AUG2023 |
+| Week 7 | Problem Set 7 | Pt. 1: Abstract |18AUG2023 |
+| Week 8 | Problem Set 8 | Pt. 2: Outline | 25AUG2023 |
+| Week 9 | Problem Set 9 | | 01SEP2023 |
+| Week 10 | Problem Set 10 | | 08SEP2023 |
+| Week 11 | Pt. 3: Poster | | 13SEP2023 |
