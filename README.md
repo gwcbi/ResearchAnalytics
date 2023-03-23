@@ -18,4 +18,4 @@ Professor Crandall
 | Week 8 | Problem Set 8 | Pt. 2: Outline | 25AUG2023 |
 | Week 9 | Problem Set 9 | | 01SEP2023 |
 | Week 10 | Problem Set 10 | | 08SEP2023 |
-| Week 11 | Pt. 3: Poster | | 13SEP2023 |
+| Week 11 | Pt. 3: Poster | Pt. 3: Poster | 13SEP2023 |
