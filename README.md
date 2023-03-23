@@ -19,3 +19,7 @@ Professor Crandall
 | Week 9 | Problem Set 9 | | 01SEP2023 |
 | Week 10 | Problem Set 10 | | 08SEP2023 |
 | Week 11 | Pt. 3: Poster | Pt. 3: Poster | 13SEP2023 |
+
+## Additional Readings
+For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
+
