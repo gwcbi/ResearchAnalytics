@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this Problem Set, we will practice doing basic statistical analyses and visualizations in R with a health dataset. Download the dataset associated with this assignment, "f10IntercrossMissing.csv" from the [Problem Set 2 folder](https://github.com/gwcbi/ResearchAnalyticsLabs/blob/master/ProblemSets/PS2/f10IntercrossMissing.csv) on GitHub. 
+In this Problem Set, we will practice doing basic statistical analyses and visualizations in R with a health dataset. Download the dataset associated with this assignment, "f10IntercrossMissing.csv" from the [Problem Set 5 folder](https://github.com/gwcbi/ResearchAnalytics5/blob/master/ProblemSets/PS5/f10IntercrossMissing.csv) on GitHub. 
 
 Crosses of inbred mouse lines are commonly used to study traits associated with disease in humans. The “f10IntercrossMissing.csv” file contains data for 1302 mice from the 10th generation of an advanced intercross between the Large and Small inbred strains of mice. Eight variables are reported related to body size and weight. This is part or a much larger study that includes genetic data, growth over time and collection of other disease related variables such as glucose and insulin response. These variables are important for studies identifying genetic variants related to growth, maternal effects, obesity, environmental interactions and diseases such as diabetes and other metabolic related diseases.
 
