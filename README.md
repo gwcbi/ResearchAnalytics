@@ -28,28 +28,28 @@ For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not fr
 
 Each week we will work on Problem Sets to help apply the course material for that week to actual data analytics. Below are the Problem Sets (1-10) for the 10 weeks of the course. Be sure to read carefully the details of each problem set and answer all the associated questions. If you have trouble accessing the data for a given problem set, email your instructor with questions or, better yet, bring your questions to the live session.
 
-[Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md) (Due Week 2)
+[Problem Set 1: Starting off slow](ProblemSets/PS1/PS1.md) (Due Friday Week 2)
 
-[Problem Set 2: Introduction to R](ProblemSets/PS2/PS2.md) (Due Week 2)
+[Problem Set 2: Introduction to R](ProblemSets/PS2/PS2.md) (Due Friday Week 2)
 
-[Problem Set 3: Data Warehouses](ProblemSets/PS3/PS3.md) (Due Week 3)
+[Problem Set 3: Data Warehouses](ProblemSets/PS3/PS3.md) (Due Friday Week 3)
 
-[Problem Set 4: Data Standards & Ontologies](ProblemSets/PS4/PS4.md) (Due Week 4)
+[Problem Set 4: Data Standards & Ontologies](ProblemSets/PS4/PS4.md) (Due Friday Week 4)
 
-[Problem Set 5: Basic Statistics](ProblemSets/PS5/PS5.md) [[Data file]](ProblemSets/PS5/f10IntercrossMissing.csv) (Due Week 5)
+[Problem Set 5: Basic Statistics](ProblemSets/PS5/PS5.md) [[Data file]](ProblemSets/PS5/f10IntercrossMissing.csv) (Due Friday Week 5)
 
-[Problem Set 6: Databases](ProblemSets/PS6/PS6.md) (Due Week 6)
+[Problem Set 6: Databases](ProblemSets/PS6/PS6.md) (Due Friday Week 6)
 
-[Problem Set 7: Introduction to Genomics](ProblemSets/PS7/PS7.md) (Due Week 7)
+[Problem Set 7: Introduction to Genomics](ProblemSets/PS7/PS7.md) (Due Friday Week 7)
 
-[Problem Set 8: Bioinformatics](ProblemSets/PS8/PS8.md) [[Data file]](ProblemSets/PS8/all_sequences.fasta.txt) (Due Week 8)
+[Problem Set 8: Bioinformatics](ProblemSets/PS8/PS8.md) [[Data file]](ProblemSets/PS8/all_sequences.fasta.txt) (Due Friday Week 8)
 
-[Problem Set 9: Descriptive Models](ProblemSets/PS9/PS9.md)  [[Data file 1]](ProblemSets/PS9/Session9GeneExpression1000.csv) [[Data file 2]](ProblemSets/PS9/Session9labels.csv) (Due Week 9) 
+[Problem Set 9: Descriptive Models](ProblemSets/PS9/PS9.md)  [[Data file 1]](ProblemSets/PS9/Session9GeneExpression1000.csv) [[Data file 2]](ProblemSets/PS9/Session9labels.csv) (Due Friday Week 9) 
 
-[Problem Set 10: Predictive Models](ProblemSets/PS10/PS10.md) [[Data file]](ProblemSets/PS10/Session10PimaDiabetesCleanRand.csv) (Due Week 10)
+[Problem Set 10: Predictive Models](ProblemSets/PS10/PS10.md) [[Data file]](ProblemSets/PS10/Session10PimaDiabetesCleanRand.csv) (Due Friday Week 10)
 
 ## Final Project
-[Part 1: Title & Abstract assignment](Project/Part1.md) [[pdf]](Project/Part1.pdf) (Due Week 7)
+[Part 1: Title & Abstract assignment](Project/Part1.md) [(Due Friday Week 7)
 
 [Part 2: Outline](Project/Part2.md) [[pdf]](Project/Part2.pdf) (Due Week 8)
 
