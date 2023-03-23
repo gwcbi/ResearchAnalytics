@@ -31,7 +31,7 @@ Each week we will work on Problem Sets to help apply the course material for tha
 
 [Problem Set 2: Introduction to R] (ProblemSets/PS2/PS2.md) (Due Week 2)
 
-[Problem Set 3: Data Warehouses](Labs/Lab2/Lab2.md) (Labs/Lab2/Lab2.pdf) (Due Week 3)
+[Problem Set 3: Data Warehouses] (ProblemSets/PS3/PS3.md) (Due Week 3)
 
 [Problem Set 4: Data Standards & Ontologies](Labs/Lab3/Lab3.md) (Labs/Lab3/Lab3.pdf) (Due Week 4)
 
