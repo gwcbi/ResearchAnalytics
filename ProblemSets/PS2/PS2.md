@@ -1,4 +1,3 @@
-
 # Problem Set 2: Introduction to R
 
 ## Introduction
