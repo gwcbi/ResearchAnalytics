@@ -2,9 +2,9 @@
 
 ## Introduction
 
-In this Problem Set, we will practice doing basic statistical analyses and visualizations in R with a health dataset. Download the dataset associated with this assignment, "f10IntercrossMissing.csv" from the [Problem Set 5 folder](https://github.com/gwcbi/ResearchAnalytics5/blob/master/ProblemSets/PS5/f10IntercrossMissing.csv) on GitHub. 
+In this Problem Set, we will practice doing basic statistical analyses and visualizations in R with a health dataset.  
 
-Going along with the examples from lectures we will use the data from the [Problem Set 5 folder] (https://github.com/gwcbi/ResearchAnalytics5/blob/master/ProblemSets/PS5/sepsis.csv) file.  Use read.csv or read_csv (from the tidyverse) to read/load the file into a data.frame or tibble variable.  Tell me how many samples (rows) and variables (columns) there are in the data.
+Going along with the examples from lectures we will use the data from the [Problem Set 5 folder](https://github.com/gwcbi/ResearchAnalytics5/blob/master/ProblemSets/PS5/sepsis.csv) file.  Use read.csv or read_csv (from the tidyverse) to read/load the file into a data.frame or tibble variable.  Tell me how many samples (rows) and variables (columns) there are in the data.
 
 Determine the percentage of missing values for each variable.  Report which two variables have the most missing data and what percentage is missing for each?
 
