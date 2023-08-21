@@ -42,7 +42,7 @@ Each week we will work on Problem Sets to help apply the course material for tha
 
 [Problem Set 7: Introduction to Genomics](ProblemSets/PS7/PS7.md) (Due Friday Week 7)
 
-[Problem Set 8: Bioinformatics](ProblemSets/PS8/PS8.md) [[Data file]](ProblemSets/PS8/all_sequences.fasta.txt) (Due Friday Week 8)
+[Problem Set 8: Bioinformatics](ProblemSets/PS8/PS8.md) [[Data file]](ProblemSets/PS8/all_sequences.fasta) (Due Friday Week 8)
 
 [Problem Set 9: Descriptive Models](ProblemSets/PS9/PS9.md)  [[Data file 1]](ProblemSets/PS9/Session9GeneExpression1000.csv) [[Data file 2]](ProblemSets/PS9/Session9labels.csv) (Due Friday Week 9) 
 
