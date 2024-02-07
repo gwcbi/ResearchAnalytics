@@ -8,7 +8,7 @@ Going along with the examples from lectures we will use the data from the [Probl
 
 Determine the percentage of missing values for each variable.  Report which two variables have the most missing data and what percentage is missing for each?
 
-From the e1017 package, use the skewness variable to assess skewness for each variable (you may need to use "na.rm=T" as an additional argument in the skewness function). Report any continuous variable(s) with a skewness less than -1 or greater than 1 and their skewness value.
+From the e1071 package, use the skewness variable to assess skewness for each variable (you may need to use "na.rm=T" as an additional argument in the skewness function). Report any continuous variable(s) with a skewness less than -1 or greater than 1 and their skewness value.
 
 Use the table function to get and report a 2x2 table of counts for the fate (1=mortality 0=no mortality) and treat (1=ibuprofen, 0=placebo) combinations.
 
