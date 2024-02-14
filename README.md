@@ -53,6 +53,6 @@ Each week we will work on Problem Sets to help apply the course material for tha
 
 [Part 2: Outline](Project/Part2.md) (Due Friday Week 8)
 
-[Part 3: Poster Presentation](Project/Part3.md) (Due Week 10)
+[Part 3: Poster Presentation](Project/Part3.md) (Due Week 11)
 
 [Part 4: Poster Examples](Project/)
