@@ -46,6 +46,8 @@ Make a table with the “Class” variable (cancer labels for each individual) f
 
 4. Which cancer line seems to be best represented by the groups from the clustering?
 
+5. Include your R script along with the report. 
+
 ## Due date
 
 Friday, Week 9
