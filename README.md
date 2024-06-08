@@ -9,17 +9,17 @@ Professor Crandall
 ## Timeline
 | Deadline | Assignment | Project Checkpoint | Due Date |
 |:---------|-----------------|--------------------|-------------|
-| Week 1 | Problem Set 1 | | 19JAN2024 |
-| Week 2 | Problem Set 2 | | 19JAN2024 |
-| Week 3 | Problem Set 3 | | 26JAN2024 |
-| Week 4 | Problem Set 4 | | 02FEB2024 |
-| Week 5 | Problem Set 5 | | 09FEB2024 |
-| Week 6 | Problem Set 6 | | 16FEB2024 |
-| Week 7 | Problem Set 7 | Pt. 1: Abstract |23FEB2024 |
-| Week 8 | Problem Set 8 | Pt. 2: Outline | 01MAR2024 |
-| Week 9 | Problem Set 9 | | 08MAR2024 |
-| Week 10 | Problem Set 10 | | 15MAR2024 |
-| Week 11 | Pt. 3: Poster | Pt. 3: Poster | 22MAR2024 |
+| Week 1 | Problem Set 1 | | 12JUL2024 |
+| Week 2 | Problem Set 2 | | 12JUL2024 |
+| Week 3 | Problem Set 3 | | 19JUL2024 |
+| Week 4 | Problem Set 4 | | 02AUG2024 |
+| Week 5 | Problem Set 5 | | 09AUG2024 |
+| Week 6 | Problem Set 6 | | 16AUG2024 |
+| Week 7 | Problem Set 7 | Pt. 1: Abstract |23AUG2024 |
+| Week 8 | Problem Set 8 | Pt. 2: Outline | 30AUG2024 |
+| Week 9 | Problem Set 9 | | 06SEP2024 |
+| Week 10 | Problem Set 10 | | 13SEP2024 |
+| Week 11 | Pt. 3: Poster | Pt. 3: Poster | 20FEB2024 |
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
