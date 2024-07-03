@@ -8,7 +8,7 @@ Professor Crandall
 
 ## Timeline
 | Deadline | Assignment | Project Checkpoint | Due Date U1 | Due Date U3 |
-|:---------|-----------------|--------------------|-------------|
+|:---------|-----------------|--------------------|-------------|-------------|
 | Week 1 | Problem Set 1 | | 12JUL2024 | 15JUL2024 |
 | Week 2 | Problem Set 2 | | 12JUL2024 | 15JUL2024 |
 | Week 3 | Problem Set 3 | | 19JUL2024 | 22JUL2024 |
