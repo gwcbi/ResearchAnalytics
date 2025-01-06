@@ -9,7 +9,7 @@ Professor Crandall
 ## Timeline
 | Deadline | Assignment | Project Checkpoint | Due Date U1 & U2 | 
 |:---------|-----------------|--------------------|-------------|
-| Week 1 | Problem Set 1 | | 17JAN2025 | 
+| Week 1 | Problem Set 1 | | 24JAN2025 | 
 | Week 2 | Problem Set 2 | | 24JAN2025 | 
 | Week 3 | Problem Set 3 | | 31JAN2025 | 
 | Week 4 | Problem Set 4 | | 07FEB2025 | 
@@ -19,7 +19,7 @@ Professor Crandall
 | Week 8 | Problem Set 8 | Pt. 2: Outline | 07MAR2025 | 
 | Week 9 | Problem Set 9 | | 14MAR2025 | 
 | Week 10 | Problem Set 10 | | 21MAR2025 | 
-| Week 11 | Pt. 3: Poster | Pt. 3: Poster | 28MAR2025 | 
+| Week 11 | Pt. 3: Poster | Pt. 3: Poster | 26MAR2025 | 
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
