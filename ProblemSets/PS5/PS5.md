@@ -18,7 +18,7 @@ temp0 represents the baseline temperature at "time 0" for each sepsis patient.  
 
 ## The report
 
-Submit your code as an R script along with clear answers to the course 2GW site. The answers can be in a separate file (pdf or word) or clearly noted in the script.
+Submit your code as an R script along with clear answers to the course 2GW site. Make sure to add comments to your code so I know you know what you're doing! The answers can be in a separate file (pdf or word) or clearly noted in the script.
 
 ## Due date
 
