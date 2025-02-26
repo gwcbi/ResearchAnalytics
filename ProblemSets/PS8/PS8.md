@@ -55,5 +55,5 @@ Friday, Week 9
 
 ## Note on Async Material
 
-Instead of GARLI you can explore these tools for maximum likelihood phylogenetics: [PHYML](http://www.atgc-montpellier.fr/phyml/), IQ-TREE
+Instead of GARLI you can explore these tools for maximum likelihood phylogenetics: [PHYML](http://www.atgc-montpellier.fr/phyml/), [IQ-TREE](http://www.iqtree.org/)
 
