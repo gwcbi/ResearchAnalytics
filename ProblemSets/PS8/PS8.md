@@ -51,7 +51,7 @@ Save your report as a PDF file and submit your report through the course 2GW sit
 
 ## Due date
 
-Friday, Week 9
+Friday, Week 8
 
 ## Note on Async Material
 
