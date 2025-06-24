@@ -7,19 +7,19 @@ Sincerely,
 Professor Crandall
 
 ## Timeline
-| Deadline | Assignment | Project Checkpoint | Due Date U1 & U2 | 
+| Deadline | Assignment | Project Checkpoint | Due Date U1 | 
 |:---------|-----------------|--------------------|-------------|
-| Week 1 | Problem Set 1 | | 24JAN2025 | 
-| Week 2 | Problem Set 2 | | 24JAN2025 | 
-| Week 3 | Problem Set 3 | | 31JAN2025 | 
-| Week 4 | Problem Set 4 | | 07FEB2025 | 
-| Week 5 | Problem Set 5 | | 14FEB2025 | 
-| Week 6 | Problem Set 6 | | 21FEB2025 | 
-| Week 7 | Problem Set 7 | Pt. 1: Abstract |28FEB2025 |
-| Week 8 | Problem Set 8 | Pt. 2: Outline | 07MAR2025 | 
-| Week 9 | Problem Set 9 | | 14MAR2025 | 
-| Week 10 | Problem Set 10 | | 21MAR2025 | 
-| Week 11 | Pt. 3: Poster | Pt. 3: Poster | 26MAR2025 | 
+| Week 1 | Problem Set 1 | | 11JUL2025 | 
+| Week 2 | Problem Set 2 | | 11JUL2025 | 
+| Week 3 | Problem Set 3 | | 18JUL2025 | 
+| Week 4 | Problem Set 4 | | 25JUL2025 | 
+| Week 5 | Problem Set 5 | | 01AUG2025 | 
+| Week 6 | Problem Set 6 | | 08AUG2025 | 
+| Week 7 | Problem Set 7 | Pt. 1: Abstract |15AUG2025 |
+| Week 8 | Problem Set 8 | Pt. 2: Outline | 22AUG2025 | 
+| Week 9 | Problem Set 9 | | 29AUG2025 | 
+| Week 10 | Problem Set 10 | | 05SEP2025 | 
+| Week 11 | Pt. 3: Poster | Pt. 3: Poster | 09SEP2025 | 
 
 ## Additional Readings
 For some sessions (2, 3, 4, 7 & 8) there are reading assignments that are not from the course book.  These reading assignments can be found under the [Readings](Readings/) folder as downloadable pdf files.
